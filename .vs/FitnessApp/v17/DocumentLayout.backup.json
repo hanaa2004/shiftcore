@@ -1,0 +1,533 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF786F7-B7D4-4E2B-8C5B-86D60A27A169}|FitnessApp.infrasructure\\FitnessApp.infrasructure.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.infrasructure\\migrations\\20250314133304_modified.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF786F7-B7D4-4E2B-8C5B-86D60A27A169}|FitnessApp.infrasructure\\FitnessApp.infrasructure.csproj|solutionrelative:fitnessapp.infrasructure\\migrations\\20250314133304_modified.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\interfaces\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\interfaces\\iappdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF786F7-B7D4-4E2B-8C5B-86D60A27A169}|FitnessApp.infrasructure\\FitnessApp.infrasructure.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.infrasructure\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF786F7-B7D4-4E2B-8C5B-86D60A27A169}|FitnessApp.infrasructure\\FitnessApp.infrasructure.csproj|solutionrelative:fitnessapp.infrasructure\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.infrasructure\\Migrations\\20250314132348_modified.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FitnessApp.infrasructure\\Migrations\\20250314132348_modified.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF786F7-B7D4-4E2B-8C5B-86D60A27A169}|FitnessApp.infrasructure\\FitnessApp.infrasructure.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.infrasructure\\fitnessapp.infrasructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EAF786F7-B7D4-4E2B-8C5B-86D60A27A169}|FitnessApp.infrasructure\\FitnessApp.infrasructure.csproj|solutionrelative:fitnessapp.infrasructure\\fitnessapp.infrasructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4105F3D-0AF5-4F37-965D-C482D2E566C0}|FitnessApp\\FitnessApp.UI.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp\\fitnessapp.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4105F3D-0AF5-4F37-965D-C482D2E566C0}|FitnessApp\\FitnessApp.UI.csproj|solutionrelative:fitnessapp\\fitnessapp.ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4105F3D-0AF5-4F37-965D-C482D2E566C0}|FitnessApp\\FitnessApp.UI.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4105F3D-0AF5-4F37-965D-C482D2E566C0}|FitnessApp\\FitnessApp.UI.csproj|solutionrelative:fitnessapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4105F3D-0AF5-4F37-965D-C482D2E566C0}|FitnessApp\\FitnessApp.UI.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4105F3D-0AF5-4F37-965D-C482D2E566C0}|FitnessApp\\FitnessApp.UI.csproj|solutionrelative:fitnessapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4105F3D-0AF5-4F37-965D-C482D2E566C0}|FitnessApp\\FitnessApp.UI.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4105F3D-0AF5-4F37-965D-C482D2E566C0}|FitnessApp\\FitnessApp.UI.csproj|solutionrelative:fitnessapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\trainee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\nutritionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\nutritionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\workoutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\workoutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\mealitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\mealitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\nutrition_plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\nutrition_plan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\workoutsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\workoutsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\traineeworkoutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\traineeworkoutprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\supervisor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\rolepermission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\permission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.core\\domain\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69DDA776-0950-486C-AB54-FCF3498D46B0}|FitnessApp.Core\\FitnessApp.Core.csproj|solutionrelative:fitnessapp.core\\domain\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF786F7-B7D4-4E2B-8C5B-86D60A27A169}|FitnessApp.infrasructure\\FitnessApp.infrasructure.csproj|c:\\users\\hanaa\\source\\repos\\fitnessapp\\fitnessapp.infrasructure\\dbcontext\\addinfrastrucre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF786F7-B7D4-4E2B-8C5B-86D60A27A169}|FitnessApp.infrasructure\\FitnessApp.infrasructure.csproj|solutionrelative:fitnessapp.infrasructure\\dbcontext\\addinfrastrucre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250314133304_modified.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.infrasructure\\Migrations\\20250314133304_modified.cs",
+              "RelativeDocumentMoniker": "FitnessApp.infrasructure\\Migrations\\20250314133304_modified.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.infrasructure\\Migrations\\20250314133304_modified.cs*",
+              "RelativeToolTip": "FitnessApp.infrasructure\\Migrations\\20250314133304_modified.cs*",
+              "ViewState": "AgIAANQBAAAAAAAAAAAcwOIBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:33:05.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250314132348_modified.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.infrasructure\\Migrations\\20250314132348_modified.cs",
+              "RelativeDocumentMoniker": "FitnessApp.infrasructure\\Migrations\\20250314132348_modified.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.infrasructure\\Migrations\\20250314132348_modified.cs",
+              "RelativeToolTip": "FitnessApp.infrasructure\\Migrations\\20250314132348_modified.cs",
+              "ViewState": "AgIAAHECAAAAAAAAAAAlwHkCAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:23:48.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FitnessApp.infrasructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.infrasructure\\FitnessApp.infrasructure.csproj",
+              "RelativeDocumentMoniker": "FitnessApp.infrasructure\\FitnessApp.infrasructure.csproj",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.infrasructure\\FitnessApp.infrasructure.csproj",
+              "RelativeToolTip": "FitnessApp.infrasructure\\FitnessApp.infrasructure.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAIA2wBoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T23:57:42.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.infrasructure\\DBContext\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "FitnessApp.infrasructure\\DBContext\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.infrasructure\\DBContext\\AppDBContext.cs",
+              "RelativeToolTip": "FitnessApp.infrasructure\\DBContext\\AppDBContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T22:38:09.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Interfaces\\IAppDbContext.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Interfaces\\IAppDbContext.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Interfaces\\IAppDbContext.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Interfaces\\IAppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAADQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T21:54:10.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Level.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\Level.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Level.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\Level.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIBDwBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T21:52:29.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FitnessApp.UI.csproj",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp\\FitnessApp.UI.csproj",
+              "RelativeDocumentMoniker": "FitnessApp\\FitnessApp.UI.csproj",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp\\FitnessApp.UI.csproj",
+              "RelativeToolTip": "FitnessApp\\FitnessApp.UI.csproj",
+              "ViewState": "AgIAAAgAAAAAAAAAAIA2wBIAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-13T23:57:33.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WorkoutProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\WorkoutProgram.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\WorkoutProgram.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\WorkoutProgram.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\WorkoutProgram.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T22:15:53.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Nutritionist.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Nutritionist.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\Nutritionist.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Nutritionist.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\Nutritionist.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIBDwBcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T22:11:38.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Trainee.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Trainee.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\Trainee.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Trainee.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\Trainee.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA9wC4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T22:12:58.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "FitnessApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "FitnessApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T00:17:50.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp\\Program.cs",
+              "RelativeDocumentMoniker": "FitnessApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp\\Program.cs",
+              "RelativeToolTip": "FitnessApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T23:15:02.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FitnessApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp\\appsettings.json",
+              "RelativeToolTip": "FitnessApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-14T22:55:56.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Meal.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Meal.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\Meal.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Meal.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\Meal.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA3wBcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T01:02:39.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MealItem.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\MealItem.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\MealItem.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\MealItem.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\MealItem.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T01:03:41.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Video.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\Video.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Video.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\Video.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T01:00:54.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Exercise.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Exercise.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\Exercise.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Exercise.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\Exercise.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIBAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:59:51.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WorkoutSession.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\WorkoutSession.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\WorkoutSession.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\WorkoutSession.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\WorkoutSession.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAywBoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:59:03.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TraineeWorkoutProgram.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\TraineeWorkoutProgram.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\TraineeWorkoutProgram.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\TraineeWorkoutProgram.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\TraineeWorkoutProgram.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywBEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:57:47.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RolePermission.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\RolePermission.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\RolePermission.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\RolePermission.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\RolePermission.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAA3wBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:23:00.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Nutrition_Plan.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Nutrition_Plan.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\Nutrition_Plan.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Nutrition_Plan.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\Nutrition_Plan.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAywAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T22:12:09.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Permission.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Permission.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\Permission.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Permission.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\Permission.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:21:18.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Role.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\Role.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:19:10.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Trainer.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\Trainer.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Trainer.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\Trainer.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T22:13:10.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Supervisor.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Supervisor.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\Supervisor.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Supervisor.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\Supervisor.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T22:11:17.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\UserRole.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\UserRole.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA3wA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:18:23.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA3wBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T00:14:17.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\Gender.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Gender.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T22:00:47.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\User.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\User.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwCQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T22:15:07.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Admin.cs",
+              "RelativeDocumentMoniker": "FitnessApp.Core\\Domain\\Models\\Admin.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.Core\\Domain\\Models\\Admin.cs",
+              "RelativeToolTip": "FitnessApp.Core\\Domain\\Models\\Admin.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T22:10:41.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddInfrastrucre.cs",
+              "DocumentMoniker": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.infrasructure\\DBContext\\AddInfrastrucre.cs",
+              "RelativeDocumentMoniker": "FitnessApp.infrasructure\\DBContext\\AddInfrastrucre.cs",
+              "ToolTip": "C:\\Users\\Hanaa\\source\\repos\\FitnessApp\\FitnessApp.infrasructure\\DBContext\\AddInfrastrucre.cs",
+              "RelativeToolTip": "FitnessApp.infrasructure\\DBContext\\AddInfrastrucre.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T21:52:30.894Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
